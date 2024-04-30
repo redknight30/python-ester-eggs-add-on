@@ -1,0 +1,39 @@
+# passcode and wlcome text
+num1=int(input("type in your favret number: "))
+num2=int(input("type in your secend favret number: "))
+if num1 + num2 == 2024:
+    print("Easter_eggs")
+print("have fun finding the ester eggs :)")
+# random genarator
+import random
+loaded_die=["hello there", "hello evry one and welcom to my lovley world of python", "that is gust a theory a game theory",
+            "that is gust a theory a food theory", "that is gust a theory a film theory", "that is gust a theory a style theory"]
+roll= random.choice(loaded_die)
+print(roll)
+# text easter eggs
+blue="1"*10000
+King_Arthur="i did not vote for you"
+_hello_="Hello World"
+_phello_="Hello World"
+we_are_but_simple_travalers_who_seak_the_enchanter_beond_thes_woods="ni "*200
+ice_age=2.4000000
+mini_ice_age=1300
+_peg_parser_="you found it"
+The_Knights_who_say_ni="whe are ceapers of the sacred words ni,ping,and niiiwom"
+not_the_Knights_who_say_ni="the same!"
+what_is_it_that_you_want="we...whant a shrubary!!!"
+a_what="ni "*100
+Knight_of_ni_we_will_retern_with_a_shrubary="one that looks nice and not to expensuve"
+what_is_the_aswer_to_life_the_unavers_and_evry_thing="the aswer to life the unavers and evry thing is 42"
+Python_origins="not named after the snake"
+from_future_import_braces="not a chance"
+NASA="www.nasa.gov"
+fallout="https://youtu.be/HE5j91sp144"
+f_naf="i think you mean fnaf"
+pew_pew_game="https://arcade.makecode.com/63604-94425-70088-78465"
+# Easter_eggs
+Easter_eggs='''
+blue, King_Arthur , _hello_, _phello_, we_are_but_simple_travalers_who_seak_the_enchanter_beond_thes_woods, ice_age,
+mini_ice_age, _peg_parser_, The_Knights_who_say_ni, what_is_it_that_you_want, a_what, not_the_Knights_who_say_ni,
+Knight_of_ni_we_will_retern_with_a_shrubary, what_is_the_aswer_to_life_the_unavers_and_evry_thing, Python_origins,
+from_future_import_braces, NASA, fallout, f_naf, pew_pew_game'''
